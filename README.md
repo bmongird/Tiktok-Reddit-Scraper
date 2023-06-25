@@ -23,6 +23,9 @@ The required libraries include PRAW, MoviePy, Selenium, Webdriver Manager, PIL, 
 
 2. To install the required libaries, open a terminal window and enter the following commands (1 per library):
 ```
+pip install playsound requests
+```
+```
 pip install praw
 ``` 
 ```
